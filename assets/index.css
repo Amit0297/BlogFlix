@@ -1,0 +1,18 @@
+.disp_con{
+    max-height: 70px;
+    overflow: hidden;
+    
+}
+.disp_name{
+    font-weight: bold;
+    font-size: 1rem;
+        
+}
+.footer_pos{
+    color: white;
+    
+}
+.footer_logo{
+    font-size: 3rem;
+    font-family: 'Great Vibes', cursive;
+}
